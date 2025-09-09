@@ -4,4 +4,4 @@ This repository contains a Python script to scrape course information from the I
 
 Scraped from [INSA Lyon Course Catalog](https://www.insa-lyon.fr/en/formation/offre-de-formation).
 
-[See output here](./output/index)
+[See output here](./output/index.md)
